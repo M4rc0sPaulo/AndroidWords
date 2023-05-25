@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+    <item>Amelie Florence</item>
+    <item>Arthur Cervero</item>
+    <item>Balu</item>
+    <item>Beatrice Portinari</item>
+    <item>Carina Leone</item>
+    <item>Cristopher Cohen</item>
+    <item>Daniel Hartmann</item>
+    <item>Dante</item>
+    <item>Elizabeth Webber</item>
+    <item>Erin Parker</item>
+    <item>Fernando Carvalho</item>
+    <item>Francisco albuquerque</item>
+    <item>Guizo</item>
+    <item>Giuseppe Leone</item>
+    <item>Henri</item>
+    <item>Hugo</item>
+    <item>Ike</item>
+    <item>Ingrid Volkomenn</item>
+    <item>Josivaldo</item>
+    <item>José</item>
+    <item>Kian</item>
+    <item>Kish</item>
+    <item>Leonardo Gomes</item>
+    <item>Lorenzo Leone</item>
+    <item>Marco Leone</item>
+    <item>Marc Menet</item>
+    <item>Noelle Aries</item>
+        <item>Nubi</item>
+        <item>Osvaldo</item>
+        <item>Ocultista misterioso</item>
+        <item>Produção Rosa</item>
+        <item>Produção Roxo</item>
+        <item>Quero</item>
+        <item>Queijo</item>
+        <item>Ricardo</item>
+        <item>Rodolfo</item>
+        <item>Stephanie Rosseau</item>
+        <item>Stella Green</item>
+        <item>Tristan Monteiro</item>
+        <item>Thiago Fritz</item>
+        <item>Utopia</item>
+        <item>Uconstipado</item>
+        <item>Walter</item>
+        <item>Wanderley Nascimento</item>
+        <item>Xuxa</item>
+        <item>Xuxinha</item>
+        <item>Yuki Saito</item>
+        <item>Yves Moreau</item>
+        <item>Zolani</item>
+        <item>Zaratras</item>
+
+
+    </string-array>
+
+
+
+
+
+</resources>
